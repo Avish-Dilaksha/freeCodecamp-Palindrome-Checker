@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0a0a23;
+    color: white;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  #text-input {
+    padding: 5px;
+  }
+  
+  #check-btn {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 10px;
+    font-weight: bold;
+  }
